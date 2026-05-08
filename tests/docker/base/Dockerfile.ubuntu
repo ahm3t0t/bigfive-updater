@@ -1,6 +1,6 @@
 # BigFive Updater - Ubuntu Base Image
 # Pre-installed dependencies for faster testing
-FROM ubuntu:24.04
+FROM ubuntu:26.04
 
 LABEL maintainer="meet@calmkernel.tr"
 LABEL description="BigFive test base image - Ubuntu 24.04"
